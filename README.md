@@ -23,6 +23,7 @@ This is a Rails application that acts as a GitHub App to automatically detect wh
   ```bash
     git clone git@github.com:vineelvineel/github_sample_repo.git
     cd github_sample_repo
+    git checkout post_comments
   ```
 
 2. **Install dependencies:**
